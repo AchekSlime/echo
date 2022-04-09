@@ -1,1 +1,1 @@
-go run --addr value
+go run server.go --addr value
